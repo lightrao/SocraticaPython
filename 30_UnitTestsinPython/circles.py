@@ -10,12 +10,13 @@ def circle_area(r):
 
 
 # Test function
-radii = [2, 0, -3, 2 + 5j, True, "radius"]
-massage = "Area of cicles with r={radius} is {area}"
+if __name__ == "__main__": 
+    radii = [2, 0, -3, 2 + 5j, True, "radius"]
+    massage = "Area of cicles with r={radius} is {area}"
 
-for r in radii:
-    A = circle_area(r)
-    print(massage.format(radius=r, area=A))
+    for r in radii:
+        A = circle_area(r)
+        print(massage.format(radius=r, area=A))
 
 
-print("aaa")
+
