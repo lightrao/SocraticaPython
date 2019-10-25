@@ -1,0 +1,6 @@
+Guido van Rossum (Dutch: [ˈɣido vɑn ˈrɔsʏm, -səm]; born 31 January 1956) is a Dutch programmer best known as the author of the Python programming language, for which he was the "Benevolent dictator for life" (BDFL) until he stepped down from the position in July 2018.[6][7] He is currently a member of the Python Steering Council.[8]
+
+Van Rossum was born and bred in the Netherlands, where he received a master's degree in mathematics and computer science from the University of Amsterdam in 1982. He has a brother, Just van Rossum, who is a type designer and programmer who designed the typeface used in the "Python Powered" logo.[citation needed]
+
+Guido lives in Belmont, California, with his wife, Kim Knapp,[9] and their son.[10][11][12] According to his home page and Dutch naming conventions, the "van" in his name is capitalized when he is referred to by surname alone, but not when using his first and last name together.[13]
+
